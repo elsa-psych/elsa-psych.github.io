@@ -61,9 +61,9 @@
   </div>
 
   <div class="section">
-    <h2>https://calendly.com/elsa-psych/60</h2>
+    <h2>预约</h2>
     <p>请在联系后再进行预约。</p>
-    <p><a href="https://your-booking-link.com" target="_blank">点击此处预约时间</a></p>
+    <p><a href="https://calendly.com/elsa-psych/60" target="_blank">点击此处预约时间</a></p>
   </div>
 </body>
 </html>
